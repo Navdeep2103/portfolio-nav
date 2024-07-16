@@ -1091,7 +1091,9 @@ section,
 }
 
 .project img {
-  max-width: 150px;
+  max-width: 171px;
+  height: 110px;
+  margin-top: 30px;
   border-radius: 5px;
 }
 
